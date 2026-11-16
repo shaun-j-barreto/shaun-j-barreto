@@ -19,23 +19,6 @@ Cloud/DevOps: AWS (S3, EC2, RDS), Docker, Linux (Ubuntu), Git/CI-CD
 
 - **[Bluprint](https://github.com/shaun-j-barreto/bluprint)**: End-to-end project management platform built with Next.js, PostgreSQL, and Prisma. Features secure authentication via Better Auth, state-driven real-time interfaces powered by Redux Toolkit & RTK Query, automated E2E test suites with Playwright, and cloud infrastructure spanning AWS EC2, S3 for media assets, and Amplify.
 
-### 🛠 Featured Repositories
-
-<p align="left">
-  <a href="https://github.com/shaun-j-barreto/bluprint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaun-j-barreto&repo=bluprint&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/shaun-j-barreto/airesume">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaun-j-barreto&repo=airesume&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ShaunZap/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShaunZap&repo=Portfolio&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/shaun-j-barreto/Sooper-Restaurant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaun-j-barreto&repo=Sooper-Restaurant&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
 ### 📊 GitHub Activity & Stats
 
 <p align="left">
