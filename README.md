@@ -23,16 +23,16 @@ Cloud/DevOps: AWS (S3, EC2, RDS), Docker, Linux (Ubuntu), Git/CI-CD
 
 <p align="left">
   <a href="https://github.com/shaun-j-barreto/bluprint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=bluprint&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaun-j-barreto&repo=bluprint&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/shaun-j-barreto/airesume">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=vaulthub&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaun-j-barreto&repo=airesume&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/shaun-j-barreto/My-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=vaulthub&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/ShaunZap/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShaunZap&repo=Portfolio&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/shaun-j-barreto/Sooper-Restaurant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=vaulthub&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaun-j-barreto&repo=Sooper-Restaurant&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
